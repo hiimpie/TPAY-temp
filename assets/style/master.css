@@ -1,0 +1,12 @@
+/* Inter Font Import */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
+
+/* Default Properties */
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    background: #00476F !important;
+    color: #fff !important;
+}

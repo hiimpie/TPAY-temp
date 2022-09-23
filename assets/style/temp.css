@@ -1,0 +1,19 @@
+wrapbody {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+}
+wrap {
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+wrap h1 {
+    font-size: 50px;
+    margin: 0;
+}
+wrap p {
+    font-size: 30px;
+    margin: 0;
+}
